@@ -1,0 +1,7 @@
+{
+	"name" : "OneRent Coding Challenge",
+	"version" : "1.0.0",
+	"main" : "launcher.js",
+    "description": "OneRent Coding Challenge for Jaycliff Arcilla",
+    "keywords": ["nw.js", "electron", "html5", "javascript", "css3", "blink", "node.js", "chromium"]
+}
